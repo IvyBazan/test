@@ -1,0 +1,7 @@
+name: envfromfile
+channels:
+  - default
+dependencies:
+  - jupyterlab=4.0.*
+  - numpy=1.22.*
+  - python=3.10.*
